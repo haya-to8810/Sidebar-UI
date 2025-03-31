@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§bSideBar §r§3UI",
+    "description": "actionbarを分割し\nSidebarとして表示するリソースパック\n§eCreated by @Shoborn 8810",
+    "version": [1, 0, 0],
+    "uuid": "b3baaff4-82fa-4cae-b991-4675dde0ef56",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "none",
+      "version": [1, 0, 0],
+      "uuid": "2abba87e-580a-428d-ad73-ee317e83280f"
+    }
+  ]
+}
