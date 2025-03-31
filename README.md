@@ -1,6 +1,8 @@
 # Sidebar-UI
 Minecraft Bedrock Edition の JSON UI を使った カスタムSidebar です
 
+> ちなみに動作確認はしっかりしてません。
+
 #使い方
 1. アドオンをダウンロード
 2. 自分のわーるどに適応
